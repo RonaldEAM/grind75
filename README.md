@@ -15,3 +15,4 @@ With **Typescript**
 | Valid Palindrome                | Easy       | [Link](https://leetcode.com/problems/valid-palindrome)                | [Link](src/125-valid-palindrome.ts)                |
 | Invert Binary Tree              | Easy       | [Link](https://leetcode.com/problems/invert-binary-tree)              | [Link](src/226-invert-binary-tree.ts)              |
 | Valid Anagram                   | Easy       | [Link](https://leetcode.com/problems/valid-anagram)                   | [Link](src/242-valid-anagram.ts)                   |
+| Binary Search                   | Easy       | [Link](https://leetcode.com/problems/binary-search)                   | [Link](src/704-binary-search.ts)                   |
