@@ -14,3 +14,4 @@ With **Typescript**
 | Best Time to Buy and Sell Stock | Easy       | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Link](src/121-best-time-to-buy-and-sell-stock.ts) |
 | Valid Palindrome                | Easy       | [Link](https://leetcode.com/problems/valid-palindrome)                | [Link](src/125-valid-palindrome.ts)                |
 | Invert Binary Tree              | Easy       | [Link](https://leetcode.com/problems/invert-binary-tree)              | [Link](src/226-invert-binary-tree.ts)              |
+| Valid Anagram                   | Easy       | [Link](https://leetcode.com/problems/valid-anagram)                   | [Link](src/242-valid-anagram.ts)                   |
