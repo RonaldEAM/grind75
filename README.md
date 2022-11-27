@@ -19,3 +19,4 @@ With **Typescript**
 | Flood Fill                                     | Easy       | [Link](https://leetcode.com/problems/flood-fill)                                     | [Link](src/733-flood-fill.ts)                                     |
 | Lowest Common Ancestor of a Binary Search Tree | Medium     | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Link](src/235-lowest-common-ancestor-of-a-binary-search-tree.ts) |
 | Balanced Binary Tree                           | Easy       | [Link](https://leetcode.com/problems/balanced-binary-tree)                           | [Link](src/110-balanced-binary-tree.ts)                           |
+| Linked List Cycle                              | Easy       | [Link](https://leetcode.com/problems/linked-list-cycle)                              | [Link](src/141-linked-list-cycle.ts)                              |
