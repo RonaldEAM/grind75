@@ -1,6 +1,6 @@
 # Grind 75
 
-Practice [LeetCode](https://leetcode.com) coding exercise questions following the [Grind 75 List](https://www.techinterviewhandbook.org/grind75)
+Practice [LeetCode](https://leetcode.com) coding exercise questions following the [Grind 75 List](https://www.techinterviewhandbook.org/grind75?order=all_rounded)
 
 With **Typescript**
 
@@ -17,6 +17,12 @@ With **Typescript**
 | Valid Anagram                                  | Easy       | [Link](https://leetcode.com/problems/valid-anagram)                                  | [Link](src/242-valid-anagram.ts)                                  |
 | Binary Search                                  | Easy       | [Link](https://leetcode.com/problems/binary-search)                                  | [Link](src/704-binary-search.ts)                                  |
 | Flood Fill                                     | Easy       | [Link](https://leetcode.com/problems/flood-fill)                                     | [Link](src/733-flood-fill.ts)                                     |
+| Maximum Subarray                               | Medium     | [Link](https://leetcode.com/problems/maximum-subarray)                               | [Link](src/53-maximum-subarray.ts)                                |
 | Lowest Common Ancestor of a Binary Search Tree | Medium     | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Link](src/235-lowest-common-ancestor-of-a-binary-search-tree.ts) |
-| Balanced Binary Tree                           | Easy       | [Link](https://leetcode.com/problems/balanced-binary-tree)                           | [Link](src/110-balanced-binary-tree.ts)                           |
-| Linked List Cycle                              | Easy       | [Link](https://leetcode.com/problems/linked-list-cycle)                              | [Link](src/141-linked-list-cycle.ts)                              |
+
+#### Week 2
+
+| Question             | Difficulty | LeetCode                                                   | Solution                                |
+| -------------------- | ---------- | ---------------------------------------------------------- | --------------------------------------- |
+| Balanced Binary Tree | Easy       | [Link](https://leetcode.com/problems/balanced-binary-tree) | [Link](src/110-balanced-binary-tree.ts) |
+| Linked List Cycle    | Easy       | [Link](https://leetcode.com/problems/linked-list-cycle)    | [Link](src/141-linked-list-cycle.ts)    |
